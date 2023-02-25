@@ -1,0 +1,19 @@
+body {
+  background-color: white;
+}
+.form {
+  width: 30rem;
+  height: 32rem;
+  
+  padding: 50px;
+  margin-left: 33rem;
+  margin-top: 5rem;
+  box-shadow: -1px 4px 28px 0px;
+}
+.details {
+  position: relative;
+  top: 2rem;
+}
+button {
+  margin-left: 16.5rem;
+}
